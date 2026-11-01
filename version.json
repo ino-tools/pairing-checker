@@ -1,7 +1,7 @@
 {
-  "versionCode": 2026110101,
-  "versionName": "2026.11.01",
+  "versionCode": 2026110102,
+  "versionName": "2026.11.01.2",
   "url": "https://github.com/ino-tools/pairing-checker/raw/main/PairingChecker-latest.apk",
-  "notes_ja": "Android 16 向けに更新しました。Google Play 版の準備（GitHub 版はこれまでどおり全機能無料）。",
-  "notes_en": "Updated for Android 16. Preparing the Google Play version (the GitHub version stays fully free)."
+  "notes_ja": "家のWi-Fiにつながっていれば、入力なしで家のWi-Fiとして登録できるようになりました。",
+  "notes_en": "Your home Wi-Fi is now registered without typing when you are connected to it."
 }
