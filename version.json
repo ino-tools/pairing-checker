@@ -1,7 +1,7 @@
 {
-  "versionCode": 2026110301,
-  "versionName": "2026.11.03",
+  "versionCode": 2026110302,
+  "versionName": "2026.11.03.2",
   "url": "https://github.com/ino-tools/pairing-checker/raw/main/PairingChecker-latest.apk",
-  "notes_ja": "アプリ選択をメーカーごとの候補だけに。どこでもディーガは期限の日付まで確かめて結果を出すようにしました。新しいアイコン。",
-  "notes_en": "App choice now lists only matching apps. For DIGA, the result now checks the actual expiry date. New icon."
+  "notes_ja": "ソニー（SideView）も期限の日付で確かめるようにしました。うまく確かめられなかったときに、画面の情報を送れるボタンを付けました。",
+  "notes_en": "Sony (SideView) is now checked by its expiry date too. When a check is unclear, you can send the screen info from the log."
 }
