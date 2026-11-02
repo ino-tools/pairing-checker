@@ -1,7 +1,7 @@
 {
-  "versionCode": 2026110201,
-  "versionName": "2026.11.02",
+  "versionCode": 2026110301,
+  "versionName": "2026.11.03",
   "url": "https://github.com/ino-tools/pairing-checker/raw/main/PairingChecker-latest.apk",
-  "notes_ja": "設定ボタンを歯車のマークにして、押しやすい位置に下げました。",
-  "notes_en": "The settings button is now a gear and sits a little lower, easier to reach."
+  "notes_ja": "アプリ選択をメーカーごとの候補だけに。どこでもディーガは期限の日付まで確かめて結果を出すようにしました。新しいアイコン。",
+  "notes_en": "App choice now lists only matching apps. For DIGA, the result now checks the actual expiry date. New icon."
 }
