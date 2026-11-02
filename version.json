@@ -1,7 +1,7 @@
 {
-  "versionCode": 2026110102,
-  "versionName": "2026.11.01.2",
+  "versionCode": 2026110201,
+  "versionName": "2026.11.02",
   "url": "https://github.com/ino-tools/pairing-checker/raw/main/PairingChecker-latest.apk",
-  "notes_ja": "家のWi-Fiにつながっていれば、入力なしで家のWi-Fiとして登録できるようになりました。",
-  "notes_en": "Your home Wi-Fi is now registered without typing when you are connected to it."
+  "notes_ja": "設定ボタンを歯車のマークにして、押しやすい位置に下げました。",
+  "notes_en": "The settings button is now a gear and sits a little lower, easier to reach."
 }
