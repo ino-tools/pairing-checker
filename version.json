@@ -1,7 +1,7 @@
 {
-  "versionCode": 2026110302,
-  "versionName": "2026.11.03.2",
+  "versionCode": 2026110303,
+  "versionName": "2026.11.03.3",
   "url": "https://github.com/ino-tools/pairing-checker/raw/main/PairingChecker-latest.apk",
-  "notes_ja": "ソニー（SideView）も期限の日付で確かめるようにしました。うまく確かめられなかったときに、画面の情報を送れるボタンを付けました。",
-  "notes_en": "Sony (SideView) is now checked by its expiry date too. When a check is unclear, you can send the screen info from the log."
+  "notes_ja": "アプリから改善要望と画面の情報を送れるようになりました。",
+  "notes_en": "You can now send feedback and screen info from the app."
 }
