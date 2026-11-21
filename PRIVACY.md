@@ -11,7 +11,8 @@
 
 ## 通信
 - 家の判定のため、同じWi-Fiの中の機器に問い合わせます（SSDP / UPnP）。
-- 新しい版の確認のため、1日1回まで GitHub（raw.githubusercontent.com）の version.json を読みます。個人を特定する情報は送りません。
+- 新しい版の確認のため（GitHub配布版のみ。Google Play版は Google Play が更新します）、1日1回まで GitHub（raw.githubusercontent.com）の version.json を読みます。個人を特定する情報は送りません。
+- Google Play版で有料機能を購入するときだけ、Google Play の課金機能を使います。支払い情報は Google が扱い、このアプリは受け取りません。
 - 「改善要望を送る」を使ったときだけ、書いた内容と、アプリの版・端末の機種・Androidの版・言語を Google フォームに送ります。名前やメールアドレスは送りません。
 
 ## ユーザー補助（AccessibilityService）
@@ -19,4 +20,4 @@
 
 ---
 
-Pairing Checker does not collect or sell personal data. Settings, home-network markers and the auto-renew log (screen text and screenshots of registered apps only, up to 30 entries) stay on your device. The app talks to devices on your home Wi-Fi (SSDP/UPnP), reads version.json from GitHub at most once a day, and sends feedback to Google Forms only when you tap Send (with app version, device model, Android version and language). The Accessibility Service is used only after you agree in the app, and only to open your registered apps, tap the button you set, and read those apps' screens to check the result.
+Pairing Checker does not collect or sell personal data. Settings, home-network markers and the auto-renew log (screen text and screenshots of registered apps only, up to 30 entries) stay on your device. The app talks to devices on your home Wi-Fi (SSDP/UPnP), reads version.json from GitHub at most once a day (GitHub build only), uses Google Play Billing only when you buy a paid feature in the Google Play build (payment details are handled by Google), and sends feedback to Google Forms only when you tap Send (with app version, device model, Android version and language). The Accessibility Service is used only after you agree in the app, and only to open your registered apps, tap the button you set, and read those apps' screens to check the result.
