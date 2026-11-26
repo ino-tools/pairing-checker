@@ -1,7 +1,7 @@
 {
-  "versionCode": 2026110303,
-  "versionName": "2026.11.03.3",
+  "versionCode": 2026112601,
+  "versionName": "2026.11.26",
   "url": "https://github.com/ino-tools/pairing-checker/raw/main/PairingChecker-latest.apk",
-  "notes_ja": "アプリから改善要望と画面の情報を送れるようになりました。",
-  "notes_en": "You can now send feedback and screen info from the app."
+  "notes_ja": "「メーカーを選ぶ」などの画面を、下にスワイプするか外側をタップして閉じられるようにしました。",
+  "notes_en": "Bottom sheets such as the service picker now close with a swipe down or a tap outside."
 }
